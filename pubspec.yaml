@@ -1,7 +1,7 @@
 name: joycyber
-description: A new Flutter package project.
+description: To speed up and make it easier to work on flutter project.
 version: 0.0.1
-homepage:
+homepage: https://github.com/shidiqfebrianto/joycyber.git
 
 environment:
   sdk: ">=2.16.2 <3.0.0"
